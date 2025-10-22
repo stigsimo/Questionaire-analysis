@@ -8,3 +8,5 @@ wheels/
 Data/
 # Virtual environments
 .venv
+barrier_comparison.csv
+method_adoption_comparison.csv
