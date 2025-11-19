@@ -10,3 +10,5 @@ Data/
 .venv
 barrier_comparison.csv
 method_adoption_comparison.csv
+plots/
+norwegian_grid_analysis
